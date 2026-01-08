@@ -1,1 +1,1 @@
-hello tom i am jerry
+echo hello tom i am jerry
